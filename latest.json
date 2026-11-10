@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "date": "2026-11-10",
   "notes": [
-    "Corrige o motor de tracking que não ligava na 1.4.0.",
-    "Topo fixo, etapa maior e Limpar cache continuam como na 1.4.0."
+    "Mídia com original só de marcador (ex.: pasta .marcadores): o Lockon usa o proxy, e o quadro não fica mais preto.",
+    "Inclui a correção do motor da 1.4.1."
   ],
   "url": "https://github.com/Edueditor/lockon-updates/releases/latest/download/Lockon_completo.zip",
   "page": "https://github.com/Edueditor/lockon-updates"
