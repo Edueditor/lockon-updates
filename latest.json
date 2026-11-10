@@ -1,10 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "date": "2026-11-10",
   "notes": [
-    "Funciona com clipes em nest: o vídeo e o gráfico (texto, PNG) podem estar aninhados.",
-    "Usa o proxy do Premiere quando o arquivo original não abre.",
-    "Aviso de atualização no painel, com o pedido pronto para o Claude."
+    "Ajuda (?) mais compacta, com a versão e as opções de atualização no fim.",
+    "Aviso de atualização mais limpo."
   ],
   "url": "https://github.com/Edueditor/lockon-updates/releases/latest/download/Lockon_completo.zip",
   "page": "https://github.com/Edueditor/lockon-updates/releases/latest"
