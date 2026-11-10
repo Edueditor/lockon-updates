@@ -1,10 +1,12 @@
 {
-  "version": "1.3.1",
+  "version": "1.4.0",
   "date": "2026-11-10",
   "notes": [
-    "Ajuda (?) mais compacta, com a versão e as opções de atualização no fim.",
-    "Aviso de atualização mais limpo."
+    "Topo fixo: o ícone e o ? ficam no mesmo lugar em todos os plugins.",
+    "Etapa (Objetivo) maior e mais perto do topo.",
+    "Limpar cache no fim do ?: apaga só os quadros antigos do tracking; suas escolhas, o motor e o projeto nunca entram.",
+    "Suas escolhas ficam guardadas num arquivo permanente."
   ],
   "url": "https://github.com/Edueditor/lockon-updates/releases/latest/download/Lockon_completo.zip",
-  "page": "https://github.com/Edueditor/lockon-updates/releases/latest"
+  "page": "https://github.com/Edueditor/lockon-updates"
 }
