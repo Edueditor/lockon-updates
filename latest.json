@@ -1,11 +1,9 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "date": "2026-11-10",
   "notes": [
-    "Topo fixo: o ícone e o ? ficam no mesmo lugar em todos os plugins.",
-    "Etapa (Objetivo) maior e mais perto do topo.",
-    "Limpar cache no fim do ?: apaga só os quadros antigos do tracking; suas escolhas, o motor e o projeto nunca entram.",
-    "Suas escolhas ficam guardadas num arquivo permanente."
+    "Corrige o motor de tracking que não ligava na 1.4.0.",
+    "Topo fixo, etapa maior e Limpar cache continuam como na 1.4.0."
   ],
   "url": "https://github.com/Edueditor/lockon-updates/releases/latest/download/Lockon_completo.zip",
   "page": "https://github.com/Edueditor/lockon-updates"
